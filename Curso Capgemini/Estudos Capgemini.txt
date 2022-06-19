@@ -1,0 +1,39 @@
+Primeira aula. Evoluçao dos computadores
+
+Computador tem sua origigem do verbo computar( que signifca calcular
+O primeiro computador é o Ábaco no século V a.c
+A primeira máquina de caluculo automático foi criada pelo Frabces Balise Pascal em 1640
+A primeira calculadora de bolso foi criada por Gottfried wilhelm Leibniz. Tambem foi o criador do primeiro sistema de numeração binario conhecido como a Roda de Leibniz
+A construção da maquina de Leibniz foi feita em 1673 e criada no ano de 1694 com a finalidade de multiplicar.
+A primeira maquina mecanica programavel foi feita pelo frances Joseph Marie
+George boole foi um dos fundadores da logica matematica.
+
+
+
+Segunda aula. Evolução dos computadores modernos
+
+A histópria da computação esta divida em 4 períodos:
+Primeira geração. de 1951 a 1959. Funcionavam atraves de circuitos e valvulas. Aelm de imensos consumiam muita energia
+Exemplo: o computador ENIAC consumia cerca de 200 quilowatts e possuia 19.000 valvulas
+
+Segunda geração. de 1959 a 1965. As valvulas foram substituidas por transitores.O computador desse periodo é o IBM 1401.
+
+Terceira geração.De 1965 a 1975, Os computadores funcionavam por circuitos integrados. Substituindo os transistores, diminuindo do tamno e aumentado a sua capacidade de processamento.
+Nesse periodo foram criados os chips e a criaçãp de computadores foram criado.
+
+Quarta geração. De 1975 a te hoje. Os computadores agora utlizam microprocessadores, consumindo menos espaço e energia e entregando mais processamento.
+Esse periodo tbm  é marcado pela intensificação por desgner.
+
+
+
+Terceira aula. A logica no mundo.
+A logica passou a ser uma area matematica a partir dos trabalho de boole nos anos de 1815 a 1864 e Augustus de Morgan de 1806 a 1871 aprensetado por eles como logica algebrica
+Nas decadas de 50 e 60 apresentaram que ja tinham em mente criar I.A.
+
+
+
+Quarta Aula. Hardware e Software
+
+Hardware são as partes fisicas e o sofware são as aplicaçoes utilizadas para controlar o Hardware.
+hardware de natureza fisica e o Software de natureza logica.
+Hardware é dividido em 4 categorias. Dispositivos de entrada e saida, componentes internos e armazenamentos secundarios.
